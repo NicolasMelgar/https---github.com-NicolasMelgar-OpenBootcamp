@@ -4,6 +4,8 @@
   "description": "Aprendiendo JavaScript",
   "main": "index.js",
   "scripts": {
+
+    "ejercicio2": "node ejercicio2.js",
     "ejercicio1": "node ejercicio1.js",
     "startB": "node index.js",
     "saludar": "node hola_mundo.js",
