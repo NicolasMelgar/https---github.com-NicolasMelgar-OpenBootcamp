@@ -4,7 +4,7 @@
   "description": "Aprendiendo JavaScript",
   "main": "index.js",
   "scripts": {
-
+"Factorial": "node Factorial.js",
     "ejercicio2": "node ejercicio2.js",
     "ejercicio1": "node ejercicio1.js",
     "startB": "node index.js",
