@@ -1,0 +1,17 @@
+
+
+const persona = {
+    nombre: "Nicolas",
+    Edad: 43
+}
+
+console.log(persona)
+
+function obtenDobleEdad(Edad) {
+    return 2 * Edad
+}
+
+const dobleEdad = obtenDobleEdad(persona.Edad)
+
+console.log(dobleEdad)
+
