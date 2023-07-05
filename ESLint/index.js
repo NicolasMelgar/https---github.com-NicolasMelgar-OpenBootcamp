@@ -1,15 +1,22 @@
-const nombreN = 'Nicolas'
+var nombreN = 'Nicolas'
 
 var nombre2 = "Maria"
 
-const prueba = "probando";
+/*eslint-disable */
+const no = "nombre"
 
+/*eslint-enable */
 
 
 //-------------Duplicado textos---------------//
-let str1 = "string con comillas dobles";
+let str1 = "string con comillas dobles"; // eslint-disable-line
+
+/* eslint-disable-next-line quotes*/
 let str2 = 'string con comillas simples';
-let str3 = `string que usa backticks`;
+
+/* eslint-disable-next-line indent*/
+  let str3 = `string que usa backticks`;
+
 
 console.log(str1)
 console.log(str2)
