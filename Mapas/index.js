@@ -1,0 +1,1 @@
+alert("No está hecho pues no quise poner tarjeta")
