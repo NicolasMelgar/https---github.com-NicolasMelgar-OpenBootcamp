@@ -1,4 +1,4 @@
-var nombreN = 'Nicolas'
+var nombreN = "Nicolas"
 
 var nombre2 = "Maria"
 
@@ -12,18 +12,18 @@ const no = "nombre"
 let str1 = "string con comillas dobles"; // eslint-disable-line
 
 /* eslint-disable-next-line quotes*/
-let str2 = 'string con comillas simples';
+let str2 = 'string con comillas simples'
 
 /* eslint-disable-next-line indent*/
-  let str3 = `string que usa backticks`;
+  let str3 = "string que usa backticks"
 
 
 console.log(str1)
 console.log(str2)
 console.log(str3)
 
-let nombre = "Nicolás";
-let saludo = `Hola, ${nombre} bienvenido`;
+let nombre = "Nicolás"
+let saludo = `Hola, ${nombre} bienvenido`
 
 console.log(saludo)
 
@@ -32,11 +32,11 @@ let textoLargo = `
 <html>
 <h1> Esta es la página de ${nombre}  </h1>
 </html>
-`;
+`
 console.log(textoLargo)
 
 let libros = ["Conversaciones con Dios", "El alquimista", "Discurso del método"]
-console.log(libros);
+console.log(libros)
 
 //Métodos con string
 
@@ -55,10 +55,10 @@ console.log(substr_str1)
 
 //Reemplazar parte del contenido
 
-let cadena = "Hola, mi nombre es Nicolás";
+let cadena = "Hola, mi nombre es Nicolás"
 
 console.log(cadena)
-console.log(cadena.replace('Nicolás','OtroNombre'))
+console.log(cadena.replace("Nicolás","OtroNombre"))
 
 // Si quiero que se reemplacen todas las palabras que deseo por otras debería ser 
 
