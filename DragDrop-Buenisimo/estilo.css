@@ -1,0 +1,34 @@
+.contenedor{
+    border: 2px solid black;
+    background-color: rgba(0, 0, 25, 0.15);
+    height: 400px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.seccion{
+    border: 2px solid black;
+    background-color: darkslategray;
+    margin: 5px;
+    height: 47%;
+}
+
+.parrafo{
+    border: 1px solid grey;
+    background-color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+    height: 40%;
+    font-size: 26px;
+}
+
+.parrafo.dragging {
+    opacity: 0.5;
+}
+
+.imagen-fantasma{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: -100vw;
+}
